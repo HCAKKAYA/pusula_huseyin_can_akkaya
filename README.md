@@ -86,8 +86,8 @@ Amaç: **Hedef değişken olan `TedaviSuresi` etrafında veriyi temiz, tutarlı 
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/<kullanici-adi>/<repo-adi>.git
-cd <repo-adi>
+git clone https://github.com/<HCAAKKAYA>/<pusula_huseyin_can_akkaya>.git
+cd <pusula_huseyin_can_akkaya>
 
 # Gereksinimleri yükle
 pip install -r requirements.txt
